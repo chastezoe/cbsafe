@@ -1,0 +1,24 @@
+Please note that all items on this page are subject to change with little or no notice. 
+Also, while I intend to use semantic versioning, versions below 1 are considered Alpha,
+and therefore may break between versions. You probably shouldn't use this without a
+backup key. :P
+
+Iteration .001:
+    ☐ Figure out wiring for
+        - RPi
+        - LCD
+        - Servo
+        - MCP2017
+        - 5 door buttons
+        - rotary encoder
+        - reset button
+        - wifi select button
+    ☐ Get printer running
+    ☐ Host own Access Point
+    ☐ Be able to latch/delatch servo
+
+Iteration .002:
+    ☐ First attempt at case
+
+Not Scheduled:
+    ☐ Chastikey API integration
